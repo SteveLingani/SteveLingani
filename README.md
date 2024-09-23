@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SteveLingani
 - 👀 I’m interested in Data Engineering & Science
-- 🌱 I’m currently learning SQL,R, and python
+- 🌱 I’m currently learning R and python
 - 💞️ I’m looking to collaborate on problem soving project and data visualisation
 - 📫 You can reach me at Steve.lingani@gmail.com
 
